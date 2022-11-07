@@ -1,0 +1,10 @@
+Android 11.x                                 29
+iOS 16                                       18
+iOS 13                                       15
+iOS 14                                       13
+Android 10.x                                  8
+iOS 15                                        7
+Не удалось узнать тип ОС, либо не указана     6
+Android 12.x                                  2
+Android 11 (EMUI 12)                          1
+
